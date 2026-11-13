@@ -1,3 +1,4 @@
+// Practice Q5: Check prime in child process, factorial in parent process, print cPid and Pid
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

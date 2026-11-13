@@ -1,3 +1,4 @@
+// Practice Q7: Sum of array in child process, check whether the sum is prime in parent process
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

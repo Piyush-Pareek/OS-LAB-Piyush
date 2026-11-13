@@ -1,3 +1,4 @@
+// Practice Q1: Child finds the minimum and parent finds the maximum of an array using fork()
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -29,7 +30,7 @@ int main(){
                 max = arr[i];
             }
         }
-        printf("MiN No. is %d\n",max);
+        printf("Max No. is %d\n",max);
     }
 
     return 0;

@@ -1,3 +1,4 @@
+// Practice Q2: Child sends a message to parent using pipe(), parent writes it into a file
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

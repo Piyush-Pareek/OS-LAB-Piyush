@@ -1,3 +1,4 @@
+// Practice Q6: Fibonacci function in child process and Armstrong numbers function in parent process
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

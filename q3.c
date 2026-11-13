@@ -1,3 +1,4 @@
+// Practice Q3: Fibonacci series upto n in child process and factorial of n in parent process
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
